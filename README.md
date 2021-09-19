@@ -1,5 +1,9 @@
 # Knowledge-King
 
+這是一個知識王的遊戲，題目總共十題，已經預先寫在程式內容當中。<br>
+每答對一題可以獲得10分，每答錯一題則不計分（不倒扣）。<br>
+總分為100分，最低分數為0分。<br>
+<br>
 Question Bank:<br>
 <br>
 1. How many blue stripes are there on the U.S. flag?<br>
