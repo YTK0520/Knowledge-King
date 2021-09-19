@@ -7,10 +7,10 @@
 Question Bank:<br>
 <br>
 1. How many blue stripes are there on the U.S. flag?<br>
-a) 6<br>
-b) 7<br>
-c) 13<br>
-d) 0<br>
+a) 6
+b)7
+c)13
+d)0
 <br>
 2. Which one of these characters is not friends with Harry Potter?<br>
 a) Ron Weasley <br>
